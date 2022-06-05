@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Aseprite
+GenericName=Aseprite
+Comment=Sophisticated paint tools for pixel art, your imagination the only limit.
+Exec=/opt/aseprite/aseprite %F
+Terminal=false
+MimeType=image/png;
+Icon=/opt/aseprite/data/icons/ase48.png
+Categories=Development;
+StartupNotify=true
